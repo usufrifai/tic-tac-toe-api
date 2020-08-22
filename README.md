@@ -1,6 +1,6 @@
 ## steps to start up the application 
 
-### `npm installs`
+### `npm install`
 install all the dependencies
 
 ### `npm start`
